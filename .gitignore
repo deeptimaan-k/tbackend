@@ -1,0 +1,42 @@
+# Node modules
+/node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output
+/dist
+/build
+
+# Dependency directories
+bower_components/
+
+# Vscode and other editor configurations
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+
+# JWT Token or sensitive data (optional, if you store tokens locally)
+*.pem
+*.key
+
+# Ignore IDE specific files
+.idea/
+
+# Ignore Mac-specific files
+*.bak
+*.orig
